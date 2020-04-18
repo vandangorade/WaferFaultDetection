@@ -52,6 +52,7 @@ pip install virtualenv
 ```sh
 git clone https://github.com/vandangorade/WaferFaultDetection.git
 ```
+
 3. Install virtualenv and activate it from your project root.
 ```sh
 pip install virtualenv
@@ -59,19 +60,23 @@ pip install virtualenv
 vitualenv venv
 
 ./venv/scripts/activate
+
 ```
 4. Install requirement.txt packages
 ```sh
 pip install requirement.txt
 ```
+
 5. Run main.py file
 ```sh
 python -u main.py
 ```
+
 6. you can train and predict locally using **Postman**
 
 ### Deployment
 We depoply project using **pivotal cloud**
+
 API : waferquality-grateful-cassowary-ec.cfapps.io
 
 ### Documentation
@@ -81,8 +86,12 @@ Docs : https://github.com/vandangorade/WaferFaultDetection/tree/master/LLD
 ## Acknowledgements
 
 https://ieeexplore.ieee.org/document/7744687/authors#authors
+
 https://academy.ineuron.ai/index.php
+
 https://run.pivotal.io/
+
 https://scikit-learn.org/stable/
+
 https://www.python.org/
 
