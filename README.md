@@ -75,7 +75,7 @@ python -u main.py
 6. you can train and predict locally using **Postman**
 
 ### Deployment
-We depoply project using **pivotal cloud**
+We deploy project using **pivotal cloud**
 
 API : waferquality-grateful-cassowary-ec.cfapps.io
 
