@@ -17,7 +17,7 @@ To build a classification methodology to predict the quality of wafer sensors ba
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-#Architecture
+### Architecture
 
 ![alt text](https://github.com/vandangorade/WaferFaultDetection/blob/master/wafer_proj_pipeline.jpg)
 
@@ -72,10 +72,10 @@ pip install requirement.txt
 python -u main.py
 ```
 
-6. you can train and predict locally using **Postman**
+6. You can train and predict locally using **Postman**
 
 ### Deployment
-We deploy project using **pivotal cloud**
+We deploy project using **Pivotal Cloud**
 
 API : waferquality-grateful-cassowary-ec.cfapps.io
 
